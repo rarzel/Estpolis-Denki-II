@@ -1,0 +1,4 @@
+- [RPG Data Library](https://www.rpgdl.org/index.html) … キャラ別成長データあり
+- [ゲームの里](http://gesato.com/index.html) … デバッグ機能への言及あり
+- [奏矢のブロマガ](https://ch.nicovideo.jp/Souya) … 乱数について ※ ユーザーブロマガは2021/10/7にサービス終了
+- [春風邪のスルメ](http://surume5.han-be.com/est2/index.htm) … 各種計算式について
